@@ -1,6 +1,5 @@
 # termux-interface-tool
 
-[![CI](https://github.com/mohammedtahar23564-dev/termux-interface-tool/actions/workflows/ci.yml/badge.svg)](https://github.com/mohammedtahar23564-dev/termux-interface-tool/actions/workflows/ci.yml)
 [![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
